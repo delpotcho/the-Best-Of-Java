@@ -1264,4 +1264,4 @@ _Sites to read._
 - [Voxxed](https://www.voxxed.com)
 
 ## Thanks
-Contributions We hope you will join us
+@wassim
